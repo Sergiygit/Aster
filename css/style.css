@@ -2733,9 +2733,9 @@ body::after {
   }
 
   .sidebar-left__list li:not(:first-child):hover {
-    -webkit-transform: translate(20px, 0px);
-        -ms-transform: translate(20px, 0px);
-            transform: translate(20px, 0px);
+    -webkit-transform: translate(10px, 0px);
+        -ms-transform: translate(10px, 0px);
+            transform: translate(10px, 0px);
     padding: 10px;
     color: #fff;
     background-color: #2F9FF8;
